@@ -9,4 +9,4 @@
     - After Entering location on input feild and clicking on Check button. Weather details will be displayed on UI.
     - If User clicks on Check button without entering location an  "error message" will be shown.
     - User can use this app on both mobile and desktop.
-    - User can view the UI on Light or Dark Mode.
+    - User can able to view the UI on Light or Dark Mode.
